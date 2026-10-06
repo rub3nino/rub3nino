@@ -45,9 +45,8 @@ Readable code, secure by default, useful to a real person on the other side of t
 
 ## Let's connect
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/ruben-havrestiuc-87592626b/?isSelfProfile=true]
+- 💼 LinkedIn: https://www.linkedin.com/in/ruben-havrestiuc-87592626b/?isSelfProfile=true
 - 📫 Open to talk about web dev, security, cloud, audit tech and AI
 
 ---
 
-<sub>If you want your product faster, more scalable and more secure, let's talk.</sub>
