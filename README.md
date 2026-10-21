@@ -13,7 +13,7 @@ I ship software that works in production and holds up under attack. Young, yes, 
 
 ## Featured projects
 
-### 🔎 QuadraJet — forensic analysis software @ Baker Tilly
+### 🔎 QuadraJet — forensic analysis software @ Baker Tilly [Quadra.com](https://quadra.co-sentinel.com/index.html)
 An analysis and **forensic-research** tool that reads fiscal and accounting documents to surface anomalies and detect **fraud** for financial audit.
 
 - 👥 **In real production use:** ~150 people every week, across multiple Italian offices.
