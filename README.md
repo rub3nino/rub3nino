@@ -1,7 +1,7 @@
 # Hi, I'm Ruben 👋
 
 **Full-stack developer, co-founder of [Tiivo](https://tiivo.it), and a security-minded builder.**
-I ship software that works in production and holds up under attack. Young, yes, but the work speaks for itself. look here (Portfolio)[https://rub3nino.github.io/portfolio-ruben-havrestiuc/]
+I ship software that works in production and holds up under attack. Young, yes, but the work speaks for itself. look here [portfolio-ruben-havrestiuc](https://rub3nino.github.io/portfolio-ruben-havrestiuc/)
 
 📍 Torino, Italy <br>
 🎓 Studying **Cybersecurity & Artificial Intelligence** at Università degli Studi di Milano<br>
