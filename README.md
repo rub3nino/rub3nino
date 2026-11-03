@@ -1,57 +1,69 @@
 # Hi, I'm Ruben 👋
 
 **Full-stack developer, co-founder of [Tiivo](https://tiivo.it), and a security-minded builder.**
-I ship software that works in production and holds up under attack. Young, yes, but the work speaks for itself. look here [portfolio-ruben-havrestiuc](https://rub3nino.github.io/portfolio-ruben-havrestiuc/)
 
-📍 Torino, Italy <br>
-🎓 Studying **Cybersecurity & Artificial Intelligence** at Università degli Studi di Milano<br>
-🚀 Co-founder & lead developer at **Tiivo**, a B2B SaaS for quotes and proposals<br>
-🔎 Builder of **QuadraJet**, a forensic analysis tool used in real financial audits<br>
-🎻 Violin for ~10 years: patience, precision and daily practice, same recipe as good code
+I build production software for security, financial audit, sales, events, and creative workflows — with a focus on privacy, automation, and systems that help people make better decisions.
+
+📍 Torino, Italy  
+🎓 Studying **Cybersecurity & Artificial Intelligence** at Università degli Studi di Milano  
+🚀 Co-founder & lead developer at **Tiivo**  
+🔎 Builder of **QuadraJet**, a forensic analysis tool used in real financial audits  
+🎻 Violinist for ~10 years: patience, precision, and daily practice — the same recipe I bring to software
 
 ---
 
-## Featured projects
+## Selected work
 
-### 🔎 QuadraJet — forensic analysis software @ Baker Tilly [Quadra.com](https://quadra.co-sentinel.com/index.html)
-An analysis and **forensic-research** tool that reads fiscal and accounting documents to surface anomalies and detect **fraud** for financial audit.
+### 🔎 QuadraJet — forensic analysis software at Baker Tilly [Quadra](https://quadra.co-sentinel.com/index.html)
 
-- 👥 **In real production use:** ~150 people every week, across multiple Italian offices.
-- 🧩 Built as a pipeline — document **extraction**, **analysis**, and a **local AI lab** for on-premise models (no sensitive data leaves the infrastructure).
-- 🛡️ **Security by design** at network, server and branch level, because it handles highly sensitive financial data.
-- 🤝 Made to work *with* auditors, not replace them: turns months of sampling into systematic analysis.
+An analysis and forensic-research platform that reads fiscal and accounting documents to surface anomalies and detect fraud during financial audits.
 
-### 🛡️ Cosentinel — open-source security scanner orchestrator · [site](https://rub3nino.github.io/Cosentinel-site/#start) · [repo](https://github.com/rub3nino/CoSentinel)
-One command that runs nine security scanners (Nmap, Nuclei, Lynis, OWASP ZAP, sqlmap…) and merges everything into a single **prioritized verdict**.
+- 👥 **Production use:** around 150 people every week across multiple Italian offices.
+- 🧩 **Pipeline architecture:** document extraction, analysis, and a local AI lab for on-premise models — no sensitive data leaves the infrastructure.
+- 🛡️ **Security by design:** protection at network, server, and branch level for highly sensitive financial data.
+- 🤝 **Built for auditors:** turns months of sampling into systematic analysis without replacing professional judgment.
 
-- 🧮 **Correlation, not noise:** an open port, a weak config and a known CVE become one named risk, scored by severity.
-- 🧷 **Local by design:** runs on your laptop, connects over SSH to machines you own, stores findings in SQLite — nothing always-on, nothing exposed.
-- 🚦 **Safe by construction:** allowlist, intensity levels, and active profiles only behind explicit `--confirm` gates.
+### 🛡️ Cosentinel — open-source security scanner orchestrator
 
-### 🧾 Tiivo — Co-founder & Lead Developer · [tiivo.it](https://tiivo.it)
+[Website](https://rub3nino.github.io/Cosentinel-site/#start) · [Repository](https://github.com/rub3nino/CoSentinel)
+
+One command runs nine security scanners — including Nmap, Nuclei, Lynis, OWASP ZAP, and sqlmap — then merges their results into one prioritized verdict.
+
+- 🧮 **Correlation, not noise:** an open port, a weak configuration, and a known CVE become one named risk scored by severity.
+- 🧷 **Local by design:** runs on your laptop, connects over SSH to machines you own, and stores findings in SQLite.
+- 🚦 **Safe by construction:** allowlists, intensity levels, and active profiles are protected by explicit `--confirm` gates.
+
+### 🧾 Tiivo — co-founder & lead developer
+
+[tiivo.it](https://tiivo.it)
+
 A B2B SaaS for companies that sell services through quotes and proposals.
 
-- 📊 **Real-time behavioral tracking:** sees how each client reads a proposal, section by section, and scores engagement.
-- 🤖 **AI** that writes the call script: opening line, points to stress, likely objections and suggested replies.
-- 🔒 **Privacy by design:** documents are never used to train AI, encrypted and stored in the EU, fully GDPR-compliant.
+- 📊 **Real-time behavioral tracking:** shows how each client reads a proposal, section by section, and scores engagement.
+- 🤖 **AI-assisted call preparation:** generates opening lines, key points to stress, likely objections, and suggested replies.
+- 🔒 **Privacy by design:** documents are never used to train AI, and are encrypted and stored in the EU.
 
-### 📸 Frames of Me — [framesofme.com](https://framesofme.com)
-Find your photos from an event starting from a **selfie**.
+### 📸 Frames of Me
 
-- 🧠 **Self-hosted facial recognition:** photographers upload the shots, the engine indexes them, and each attendee gets a personal gallery by email.
-- 🔐 **Privacy-first:** the selfie file is deleted right after the search — only the mathematical face vector stays, linked to your gallery.
-- ⚙️ Angular 22, built to scale toward **~150k photos** and **~6k attendees** per event; split across a six-repo architecture.
+[framesofme.com](https://framesofme.com)
 
-### 🎼 DaCor — a tool for choir directors (built for the Ebenezer choir)
-Open-source utility that **cleans up and enhances scanned sheet-music PDFs** and helps a choir director organize the repertoire.
+Find event photos from a selfie.
+
+- 🧠 **Self-hosted facial recognition:** photographers upload the shots, the engine indexes them, and each attendee receives a personal gallery by email.
+- 🔐 **Privacy-first flow:** the selfie is deleted immediately after the search; only the mathematical face vector remains, linked to the attendee's gallery.
+- ⚙️ **Built to scale:** Angular 22 architecture designed for around 150,000 photos and 6,000 attendees per event, split across six repositories.
+
+### 🎼 DaCor — choir repertoire toolkit
+
+An open-source utility built for the Ebenezer choir that cleans up and enhances scanned sheet-music PDFs and helps choir directors organize their repertoire.
 
 ---
 
 ## What I'm working on
 
-- 🛡️ **Security-first development**: closing the security gap that AI-assisted coding can open (OWASP, code review of AI-generated code, smaller attack surface)
-- ☁️ **Cloud & identity**: AWS, Azure and Microsoft Entra ID for scalable infrastructure and secure access
-- 🤖 **Agentic AI**: agent loops, RAG and tool calling on real company data, from design to deploy
+- 🛡️ **Security-first development:** reducing the security gap introduced by AI-assisted coding through OWASP practices, review of AI-generated code, and smaller attack surfaces.
+- ☁️ **Cloud & identity:** AWS, Azure, and Microsoft Entra ID for scalable infrastructure and secure access.
+- 🤖 **Agentic AI:** agent loops, RAG, and tool calling on real company data — from design to deployment.
 
 ## Tech I work with
 
@@ -68,11 +80,9 @@ Open-source utility that **cleans up and enhances scanned sheet-music PDFs** and
 
 ## How I work
 
-Readable code, secure by default, useful to a real person on the other side of the screen. I'd rather ship something small that works than something clever that nobody uses. And I keep raising the bar: more complex projects, more solid code, architectures built for real companies.
+Readable code, secure by default, useful to a real person on the other side of the screen. I would rather ship something small that works than something clever that nobody uses — then keep raising the bar with more solid code and architectures built for real companies.
 
 ## Let's connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ruben-havrestiuc-87592626b/
-- 📫 Open to talk about web dev, security, cloud, audit tech and AI
-
----
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruben-havrestiuc-87592626b/)
+- 📫 Open to conversations about web development, security, cloud, audit technology, and AI.
