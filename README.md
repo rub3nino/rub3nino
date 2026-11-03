@@ -21,6 +21,13 @@ An analysis and **forensic-research** tool that reads fiscal and accounting docu
 - 🛡️ **Security by design** at network, server and branch level, because it handles highly sensitive financial data.
 - 🤝 Made to work *with* auditors, not replace them: turns months of sampling into systematic analysis.
 
+### 🛡️ Cosentinel — open-source security scanner orchestrator · [site](https://rub3nino.github.io/Cosentinel-site/#start) · [repo](https://github.com/rub3nino/CoSentinel)
+One command that runs nine security scanners (Nmap, Nuclei, Lynis, OWASP ZAP, sqlmap…) and merges everything into a single **prioritized verdict**.
+
+- 🧮 **Correlation, not noise:** an open port, a weak config and a known CVE become one named risk, scored by severity.
+- 🧷 **Local by design:** runs on your laptop, connects over SSH to machines you own, stores findings in SQLite — nothing always-on, nothing exposed.
+- 🚦 **Safe by construction:** allowlist, intensity levels, and active profiles only behind explicit `--confirm` gates.
+
 ### 🧾 Tiivo — Co-founder & Lead Developer · [tiivo.it](https://tiivo.it)
 A B2B SaaS for companies that sell services through quotes and proposals.
 
