@@ -13,7 +13,7 @@ I ship software that works in production and holds up under attack. Young, yes, 
 
 ## Featured projects
 
-### 🔎 QuadraJet — forensic analysis software @ Baker Tilly [Quadra.com](https://quadra.co-sentinel.com/index.html)
+### 🔎 QuadraJet — forensic analysis software @ Baker Tilly [Quadra](https://quadra.co-sentinel.com/index.html)
 An analysis and **forensic-research** tool that reads fiscal and accounting documents to surface anomalies and detect **fraud** for financial audit.
 
 - 👥 **In real production use:** ~150 people every week, across multiple Italian offices.
@@ -21,21 +21,21 @@ An analysis and **forensic-research** tool that reads fiscal and accounting docu
 - 🛡️ **Security by design** at network, server and branch level, because it handles highly sensitive financial data.
 - 🤝 Made to work *with* auditors, not replace them: turns months of sampling into systematic analysis.
 
-### 🛡️ Cosentinel — open-source security scanner orchestrator · [site](https://rub3nino.github.io/Cosentinel-site/#start) · [repo](https://github.com/rub3nino/CoSentinel)
+### 🛡️ Cosentinel — open-source security scanner orchestrator · [Cosentinel](https://rub3nino.github.io/Cosentinel-site/) · [repo](https://github.com/rub3nino/CoSentinel)
 One command that runs nine security scanners (Nmap, Nuclei, Lynis, OWASP ZAP, sqlmap…) and merges everything into a single **prioritized verdict**.
 
 - 🧮 **Correlation, not noise:** an open port, a weak config and a known CVE become one named risk, scored by severity.
 - 🧷 **Local by design:** runs on your laptop, connects over SSH to machines you own, stores findings in SQLite — nothing always-on, nothing exposed.
 - 🚦 **Safe by construction:** allowlist, intensity levels, and active profiles only behind explicit `--confirm` gates.
 
-### 🧾 Tiivo — Co-founder & Lead Developer · [tiivo.it](https://tiivo.it)
+### 🧾 Tiivo — Co-founder & Lead Developer · [tiivo](https://tiivo.it)
 A B2B SaaS for companies that sell services through quotes and proposals.
 
 - 📊 **Real-time behavioral tracking:** sees how each client reads a proposal, section by section, and scores engagement.
 - 🤖 **AI** that writes the call script: opening line, points to stress, likely objections and suggested replies.
 - 🔒 **Privacy by design:** documents are never used to train AI, encrypted and stored in the EU, fully GDPR-compliant.
 
-### 📸 Frames of Me — [framesofme.com](https://framesofme.com)
+### 📸 Frames of Me — [framesofme](https://framesofme.com)
 Find your photos from an event starting from a **selfie**.
 
 - 🧠 **Self-hosted facial recognition:** photographers upload the shots, the engine indexes them, and each attendee gets a personal gallery by email.
